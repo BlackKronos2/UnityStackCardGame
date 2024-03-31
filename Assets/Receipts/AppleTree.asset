@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652f0c7f541d200449de9a73bbc141f1, type: 3}
+  m_Name: AppleTree
+  m_EditorClassIdentifier: 
+  Name: 
+  EntryCards:
+  - Name: 
+    CardData:
+      CardInfo: {fileID: 11400000, guid: 0ade1e908de25ec4b9db6966f7dbd243, type: 2}
+      Count: 1
+    DestroyedOnCraft: 1
+  - Name: 
+    CardData:
+      CardInfo: {fileID: 11400000, guid: 3c451b4180991174db41e020d6d6be8b, type: 2}
+      Count: 1
+    DestroyedOnCraft: 1
+  CardsResult:
+  - CardInfo: {fileID: 11400000, guid: 4df3d3815174dab40972187af731f0a5, type: 2}
+    Count: 1
+  CraftTime: 20
